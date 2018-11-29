@@ -1,0 +1,3 @@
+Create a file using any word-processing program or text editor. Write an application
+that displays the file’s name, containing folder, size, and time of last modification.
+Save the file as FileStatistics.java.
